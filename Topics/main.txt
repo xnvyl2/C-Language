@@ -1,7 +1,7 @@
 1. Pointers in C (completed)
 2. How empty pointer throws error. (completed)
 3. String concatenation. (completed)
-4. Malloc based strings.
+4. Malloc based strings. (completed)
 5. String to int conversion.
 6. Int to string conversion
 7. String compare.
