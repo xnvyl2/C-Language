@@ -11,7 +11,7 @@
  * Types: 
  * 1.NULL ptr
  * 2.Wild ptr
- * 3.Void ptr
+ * 3.Void ptr (generic pointer)
  * 4.Dangling ptr
  */
 
@@ -47,6 +47,7 @@ int main()
 
     // removing Dangling Pointer
     ptr4 = NULL;
+
 
     return 0;
 }

@@ -1,0 +1,67 @@
+1. Pointers in C (completed)
+2. How empty pointer throws error. (completed)
+3. String concatenation. (completed)
+4. Malloc based strings.
+5. String to int conversion.
+6. Int to string conversion
+7. String compare.
+8. String copy.
+9. Malloc based array.
+10. Assigning char to int and int to char directly without errors.
+11. Functions, declaration of functions.
+12. Global variables.
+13. Learning variadic functions.
+14. #include
+15. #define
+16. #if, #elseif
+17. #endif
+18. How .h and .c files work with each other, how to create our own .h/.c file library.
+19. How Left shift works.
+20. How "~=" can be used to toggle a bit.
+21. Uint8_t, uint16_t, uint32_t, uint64_t.
+22. Structs
+23. Typedefs.
+24. Use of "->" and "." to access struct members. 
+
+Code(yourself) and run these logics: 
+1. smallest number between 3 numbers.
+2. Smallest between 15 numbers (using array)
+3. Ascending order.
+4. Descending order.
+5. Fibonacci
+6. Factorial
+7. Addition of 10 numbers.
+8. ATM withrawal program.
+9. Writing & reading to/from a file.
+10. Merge sort
+11. Insertion sort
+12. Creating right angled triangle pattern using "*"
+13. Linked list
+14. Binary search. 
+
+Try building these logics by yourself without checking online code. We want expert logic building skills. Struggle hard. 
+
+Micro-controller concepts:
+1. GPIO
+2. GPIO Alternate function
+3. Digital vs Analog signals
+4. D2A and A2D converters.
+5. How to connect LED to an MCU(microcontroller)
+6. UART
+7. I2C
+8. SPI
+9. RS 232
+10. MODBUS TCP. 
+
+Internet Protocols:
+1. TCP
+2. HTTP
+3. MQTT
+4. OSI Model 
+
+RTOS:
+1. Multitasking
+2. Scheduling
+3. RTOS vs OS.
+4. Semaphores
+5. Mutex.
