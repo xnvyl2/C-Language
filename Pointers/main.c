@@ -1,6 +1,20 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/**
+ * Pointers: 
+ * It is a variable which contains the address of another variable. 
+ * It is used to point files, printer and other h/w devices.
+ * It is used in call by reference.
+ * Syntax:
+ *      data_type *ptr_name = &var_name;
+ * Types: 
+ * 1.NULL ptr
+ * 2.Wild ptr
+ * 3.Void ptr
+ * 4.Dangling ptr
+ */
+
 int main()
 {
     int x = 4;
