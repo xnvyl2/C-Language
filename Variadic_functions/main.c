@@ -37,7 +37,7 @@ int sum2(int count, ...){
         x = va_arg(args, int);
         sum += x;
     }
-
+    va_end(args); // clean up
     return sum;
 }
 
@@ -53,6 +53,8 @@ int max(int count, ...){
             max = num;
         }
     }
+    
+    va_end(args);
 
     return max;
 }
