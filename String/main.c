@@ -4,6 +4,13 @@
 /**
  * String:
  * It is collection of chars which is terminated by null char. ('\0');
+ * It is mutable if stored in stack or heap (via array or malloc).asm
+ * char str[] = "hello";
+ * str[0] = 'H';  // ✅ works
+ * 
+ * It is immutable if it's a string literal stored in read-only memory.
+ * char *str = "hello";
+ * str[0] = 'H';  // ❌ runtime error
  *
  * Methods:
  * 1. int strlen(str) -> returns the length of the string
