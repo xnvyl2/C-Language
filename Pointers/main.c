@@ -13,6 +13,16 @@
  * 2.Wild ptr
  * 3.Void ptr (generic pointer)
  * 4.Dangling ptr
+ * 
+ * Multilvl Pointer:
+ * A multilevel pointer is a pointer that stores the address of another pointer.
+ * 
+ * Examples:
+ * int *p → pointer to an integer
+ * int **q → pointer to a pointer to an integer
+ * int ***r → pointer to a pointer to a pointer to an integer
+ * 
+ * Used to create 2d/3d arrays, in advanced ds, to pass pointer by reference to func. 
  */
 
 int main()
@@ -47,6 +57,18 @@ int main()
 
     // removing Dangling Pointer
     ptr4 = NULL;
+
+    // Multilvl pointer
+    int y = 10;
+    int *p = &y;      // pointer to int
+    int **q = &p;     // pointer to pointer to int
+    int ***r = &q;    // pointer to pointer to pointer to int
+
+    // Let's print everything
+    printf("y      = %d\n", y);       // 10
+    printf("*p     = %d\n", *p);      // 10
+    printf("**q    = %d\n", **q);     // 10
+    printf("***r   = %d\n", ***r);    // 10
 
 
     return 0;
