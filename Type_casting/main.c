@@ -44,6 +44,8 @@
  *          base : numeric base (usually 10)
  *      Returns char pointer.
  *      Not portable — use only if your compiler supports it.
+ * 
+ * # Convert char to int vice versa without errors
  *    
  */
 
@@ -98,7 +100,17 @@ int main() {
     itoa(1234, op_str, 10);
     puts(op_str);
 
+    // Convert char to int 
+    char ch = 'x';
+    int c = ch; // Implicitly convert 
+    printf("Integer: %d\n", c);
 
+    // Convert int to char 
+    // int z = 1000; // Data loss bcoz of char range (-127 to 127)
+    int z = 66; // B
+    ch = z;
+
+    printf("Character: %c\n", ch);
 
     return 0;
 }
