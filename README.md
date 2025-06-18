@@ -7,7 +7,9 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 ✨ **Don't forget to star the repo if you find it useful!** ✨  
-[![Click to Star](https://img.shields.io/badge/🌟_Click_to_Star!-yellow?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Faisal786111/C-Language)  
+<a href="https://github.com/Faisal786111/C-Language">
+  <img alt="Click to Star" src="https://img.shields.io/badge/🌟_Click_to_Star!-yellow?style=for-the-badge&logo=github&logoColor=white">
+</a>  
 _Your stars motivate me to keep creating more content!_
 
 </div>
