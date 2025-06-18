@@ -4,7 +4,7 @@
  * Problem: 
  * Addition of 10 numbers.
  * 
- * TC: O(n)
+ * TC: O(1) -> 10 is consntant
  *  
  */
 
