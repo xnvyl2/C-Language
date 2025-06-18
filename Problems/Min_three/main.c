@@ -3,6 +3,8 @@
 /**
  * Problem: 
  * Smallest number between 3 numbers.
+ * 
+ * TC: O(n)
  */
 
 int min(int count, ...){
