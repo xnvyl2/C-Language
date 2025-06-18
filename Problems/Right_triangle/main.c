@@ -4,7 +4,7 @@
  * Problem: 
  * Creating right angled triangle pattern using "*"
  * 
- * TC: O(n)
+ * TC: O(n^2)
  */
 
 int main() {
