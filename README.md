@@ -8,7 +8,7 @@
 
 ✨ **Don't forget to star the repo if you find it useful!** ✨  
 <a href="https://github.com/Faisal786111/C-Language">
-  <img alt="Click to Star" src="https://img.shields.io/badge/🌟_Click_to_Star!-yellow?style=for-the-badge&logo=github&logoColor=white">
+  [![Click to Star](https://img.shields.io/badge/🌟_Click_to_Star!-yellow?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Faisal786111/C-Language)
 </a>  
 _Your stars motivate me to keep creating more content!_
 
