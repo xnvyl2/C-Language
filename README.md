@@ -5,14 +5,14 @@
   
 [![GitHub Stars](https://img.shields.io/github/stars/Faisal786111/C-Language?style=for-the-badge&logo=github)](https://github.com/Faisal786111/C-Language/stargazers)
 [![MIT License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://opensource.org/licenses/MIT)
+<br>
+[![Click to Star](https://img.shields.io/badge/🌟_Click_to_Star!-yellow?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Faisal786111/C-Language)
 
 ✨ **Don't forget to star the repo if you find it useful!** ✨  
-<a href="https://github.com/Faisal786111/C-Language">
-  [![Click to Star](https://img.shields.io/badge/🌟_Click_to_Star!-yellow?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Faisal786111/C-Language)
-</a>  
 _Your stars motivate me to keep creating more content!_
 
 </div>
+
 
 **A comprehensive collection of C programming concepts, algorithms, and practical implementations**  
 
