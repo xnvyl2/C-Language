@@ -36,9 +36,18 @@ This repository contains all core concepts, code examples, and important program
 # C Language Repository Structure
 
 📂 **C-Language/**
-│<br>
+│  <br>
 ├── 📁 [Common/](Common/)  
 │   └── Common header files (e.g., `headers.h`)  
+│
+├── 📁 [File_handling/](File_handling/)  
+│   └── File operations (fopen, fprintf, fscanf, fclose, etc.)  
+│
+├── 📁 [Functions/](Functions/)  
+│   └── User-defined functions and prototypes  
+│
+├── 📁 [Global_vars/](Global_vars/)  
+│   └── Examples using global variables  
 │
 ├── 📁 [Malloc/](Malloc/)  
 │   └── Programs using `malloc` and dynamic memory  
@@ -46,17 +55,20 @@ This repository contains all core concepts, code examples, and important program
 ├── 📁 [Pointers/](Pointers/)  
 │   └── Pointer-related concepts and programs  
 │
+├── 📁 [Problems/](Problems/)  
+│   └── Practice problems (right angle star pattern, min of 3 numbers, etc.)  
+│
 ├── 📁 [String/](String/)  
 │   └── String operations (concatenation, copy, compare, etc.)  
+│
+├── 📁 [Topics/](Topics/)  
+│   └── Theory or notes on different C topics  
 │
 ├── 📁 [Type_casting/](Type_casting/)  
 │   └── Type conversion and casting examples  
 │
-├── 📁 [Problems/](Problems/)  
-│   └── Practice problems (min of 3 numbers, sorting, etc.)  
-│
-├── 📁 [Topics/](Topics/)  
-│   └── Theory or notes on different C topics  
+├── 📁 [Variadic_functions/](Variadic_functions/)  
+│   └── Usage of variadic functions (`va_list`, `va_arg`, etc.)  
 │
 └── 📄 [README.md](README.md)
 
