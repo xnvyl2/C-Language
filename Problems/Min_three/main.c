@@ -4,7 +4,7 @@
  * Problem: 
  * Smallest number between 3 numbers.
  * 
- * TC: O(n)
+ * TC: O(1) -> 3 is constant
  */
 
 int min(int count, ...){
